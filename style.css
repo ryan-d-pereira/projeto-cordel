@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(imagens/background001.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 100% 50%;
+    overflow-x: hidden;
+    width: 100%;
+}
+
+header{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 36px;
+    width: 100%;
+    font-family: 'Sriracha', cursive;
+    font-size: 23px;
+}
+
+main{
+    background-color: white;
+    text-align: left;
+    min-height: 400px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    font-family: 'Sriracha', cursive;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+ a:hover{
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#p2{
+    background-color: rgba(0, 0, 0, 0.262);
+    color: white;
+    padding: 10px;
+    width: fit-content;
+    max-width: 90%;
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 23px;
+    line-height: 30px;
+    margin-bottom: 50px;
+    font-family:; 
+}
+
+#p3{
+      background-color: white;
+    text-align: left;
+    min-height: 400px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    font-family: 'Sriracha', cursive;
+    padding-bottom: 50px;
+}
+
+nav{
+    background-image: url(imagens/background002.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 100% 50%;
+    overflow-x: hidden;
+    width: 100%;   
+}
+
+#p4{
+        background-color: rgba(0, 0, 0, 0.262);
+    color: white;
+    padding: 10px;
+    width: fit-content;
+    max-width: 90%;
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 23px;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+
+#p5{
+     background-color: white;
+    text-align: left;
+    min-height: 400px;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    font-family: 'Sriracha', cursive;
+    padding-bottom: 70px;
+}
+
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 19px;
+}
